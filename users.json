@@ -73,8 +73,9 @@
         "bio": null,
         "email": null
       },
-      "level": 0,
-      "rcoins": 50
+      "level": 1,
+      "rcoins": 50,
+      "experience": 50
     }
   ],
   "index": {
