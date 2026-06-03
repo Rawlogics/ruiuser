@@ -41,7 +41,8 @@
         "000004",
         "000005",
         "000006",
-        "000011"
+        "000011",
+        "000010"
       ],
       "profile": {
         "avatar": "https://raw.githubusercontent.com/RuiweihanHub/ruiuser/main/avatars/000001_1776594694854.jpg",
@@ -94,7 +95,9 @@
       "createdAt": "2026-04-25T03:21:20.694Z",
       "lastLogin": null,
       "loginCount": 0,
-      "friends": [],
+      "friends": [
+        "000001"
+      ],
       "profile": {
         "avatar": null,
         "bio": null,
