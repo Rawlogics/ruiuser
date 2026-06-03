@@ -79,7 +79,8 @@
       "level": 1,
       "rcoins": 70050,
       "experience": 50,
-      "quickPass": "000000000"
+      "quickPass": "000000000",
+      "pro": true
     },
     {
       "uid": "000010",
