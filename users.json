@@ -29,7 +29,7 @@
       "uid": "000001",
       "username": "Ruiweihan",
       "displayName": "Ruiweihan",
-      "passwordHash": "6052ni",
+      "passwordHash": "00btijme",
       "role": "admin",
       "status": "active",
       "createdAt": "2024-01-01T00:00:00Z",
@@ -115,7 +115,7 @@
       "role": "admin",
       "level": 0,
       "status": "active",
-      "createdAt": "2026-04-25T03:35:26.080Z",
+      "createdAt": "2026-04-25T03:35:26.08Z",
       "lastLogin": null,
       "loginCount": 0,
       "friends": [
