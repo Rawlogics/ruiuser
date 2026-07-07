@@ -1,6 +1,6 @@
 {
   "version": "2.1",
-  "nextUid": 13,
+  "nextUid": 14,
   "users": [
     {
       "uid": "Administrator",
@@ -147,6 +147,23 @@
       "githubId": "gh_pfo0tr942r",
       "experience": 30,
       "lastDailyBonus": "2026-06-07"
+    },
+    {
+      "uid": "000013",
+      "username": "Ruiweihan111",
+      "displayName": "Ruiweihan111",
+      "passwordHash": "00spl1hf",
+      "role": "user",
+      "status": "active",
+      "createdAt": "2026-07-07T05:50:02.103Z",
+      "lastLogin": null,
+      "loginCount": 0,
+      "friends": [],
+      "profile": {
+        "avatar": null,
+        "bio": null,
+        "email": "ruiweihan@outlook.com"
+      }
     }
   ],
   "index": {
@@ -156,7 +173,8 @@
       "000002": 2,
       "000010": 3,
       "000011": 4,
-      "000012": 5
+      "000012": 5,
+      "000013": 6
     },
     "byUsername": {
       "Administrator": 0,
@@ -164,12 +182,13 @@
       "Xvjiarui": 2,
       "Test": 3,
       "rrrrrrrrrrr": 4,
-      "github_user_pfo0tr": 5
+      "github_user_pfo0tr": 5,
+      "Ruiweihan111": 6
     }
   },
   "stats": {
-    "totalUsers": 6,
+    "totalUsers": 7,
     "totalLogins": 6,
-    "lastRegistration": "2026-06-07T05:05:12.241Z"
+    "lastRegistration": "2026-07-07T05:50:02.103Z"
   }
 }
