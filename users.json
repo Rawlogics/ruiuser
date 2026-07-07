@@ -23,7 +23,9 @@
       },
       "rcoins": 10000,
       "pro": true,
-      "quickPass": "459686306"
+      "quickPass": "459686306",
+      "experience": 30,
+      "lastDailyBonus": "2026-07-07"
     },
     {
       "uid": "000001",
