@@ -10,8 +10,8 @@
       "role": "admin",
       "status": "active",
       "createdAt": "2024-01-01T00:00:00Z",
-      "lastLogin": "2026-04-19T13:18:21.065Z",
-      "loginCount": 1,
+      "lastLogin": "2026-07-07T11:57:09.795Z",
+      "loginCount": 2,
       "friends": [
         "000001",
         "000002"
@@ -190,7 +190,7 @@
   },
   "stats": {
     "totalUsers": 7,
-    "totalLogins": 6,
+    "totalLogins": 7,
     "lastRegistration": "2026-07-07T05:50:02.103Z"
   }
 }
