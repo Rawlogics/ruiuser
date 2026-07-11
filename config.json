@@ -1,9 +1,9 @@
 {
   "notice": "",
   "ad": {
+    "enabled": true,
     "text": "Wei语言现已重构，支持打包生成exe🚀",
-    "url": "baidu.com",
-    "enabled": true
+    "url": "baidu.com"
   },
-  "updatedAt": "2026-07-07T11:59:56.320Z"
+  "updatedAt": "2026-07-11T13:37:27.624Z"
 }
